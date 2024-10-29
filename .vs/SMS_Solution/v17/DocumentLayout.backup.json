@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|f:\\final project\\sms [5.0]\\sms [4.0]\\schoolmanagementsystem\\controllers\\curriculamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\controllers\\curriculamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|f:\\final project\\sms [5.0]\\sms [4.0]\\schoolmanagementsystem\\models\\curriculum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\models\\curriculum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|f:\\final project\\sms [5.0]\\sms [4.0]\\schoolmanagementsystem\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\dell\\desktop\\git\\sms_api\\schoolmanagementsystem\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|f:\\final project\\sms [5.0]\\sms [4.0]\\schoolmanagementsystem\\controllers\\campuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\dell\\desktop\\git\\sms_api\\schoolmanagementsystem\\models\\viewmodel\\studentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\models\\viewmodel\\studentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\dell\\desktop\\git\\sms_api\\schoolmanagementsystem\\controllers\\curriculamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\controllers\\curriculamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\dell\\desktop\\git\\sms_api\\schoolmanagementsystem\\models\\curriculum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\models\\curriculum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\dell\\desktop\\git\\sms_api\\schoolmanagementsystem\\controllers\\campuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\controllers\\campuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|f:\\final project\\sms [5.0]\\sms [4.0]\\schoolmanagementsystem\\models\\viewmodel\\campusvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\dell\\desktop\\git\\sms_api\\schoolmanagementsystem\\models\\viewmodel\\campusvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\models\\viewmodel\\campusvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|f:\\final project\\sms [5.0]\\sms [4.0]\\schoolmanagementsystem\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\dell\\desktop\\git\\sms_api\\schoolmanagementsystem\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|f:\\final project\\sms [5.0]\\sms [4.0]\\schoolmanagementsystem\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\dell\\desktop\\git\\sms_api\\schoolmanagementsystem\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFAA2285-2036-4197-A1B3-3AC74A4DADB6}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,32 +42,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Curriculum.cs",
-              "DocumentMoniker": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\Models\\Curriculum.cs",
-              "RelativeDocumentMoniker": "SchoolManagementSystem\\Models\\Curriculum.cs",
-              "ToolTip": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\Models\\Curriculum.cs",
-              "RelativeToolTip": "SchoolManagementSystem\\Models\\Curriculum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "StudentVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Models\\ViewModel\\StudentVM.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Models\\ViewModel\\StudentVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Models\\ViewModel\\StudentVM.cs",
+              "RelativeToolTip": "SchoolManagementSystem\\Models\\ViewModel\\StudentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T05:43:10.806Z",
+              "WhenOpened": "2024-10-29T05:30:47.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Curriculum.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Models\\Curriculum.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Models\\Curriculum.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Models\\Curriculum.cs",
+              "RelativeToolTip": "SchoolManagementSystem\\Models\\Curriculum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:43:10.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CurriculamsController.cs",
-              "DocumentMoniker": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\Controllers\\CurriculamsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Controllers\\CurriculamsController.cs",
               "RelativeDocumentMoniker": "SchoolManagementSystem\\Controllers\\CurriculamsController.cs",
-              "ToolTip": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\Controllers\\CurriculamsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Controllers\\CurriculamsController.cs",
               "RelativeToolTip": "SchoolManagementSystem\\Controllers\\CurriculamsController.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,23 +88,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "StudentsController.cs",
-              "DocumentMoniker": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\Controllers\\StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "SchoolManagementSystem\\Controllers\\StudentsController.cs",
-              "ToolTip": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "SchoolManagementSystem\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAALkAAAAAAAAAAAAcwOsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T01:17:23.312Z"
+              "WhenOpened": "2024-10-12T01:17:23.312Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CampusVM.cs",
-              "DocumentMoniker": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\Models\\ViewModel\\CampusVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Models\\ViewModel\\CampusVM.cs",
               "RelativeDocumentMoniker": "SchoolManagementSystem\\Models\\ViewModel\\CampusVM.cs",
-              "ToolTip": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\Models\\ViewModel\\CampusVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Models\\ViewModel\\CampusVM.cs",
               "RelativeToolTip": "SchoolManagementSystem\\Models\\ViewModel\\CampusVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,11 +113,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TeachersController.cs",
-              "DocumentMoniker": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\Controllers\\TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Controllers\\TeachersController.cs",
               "RelativeDocumentMoniker": "SchoolManagementSystem\\Controllers\\TeachersController.cs",
-              "ToolTip": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Controllers\\TeachersController.cs",
               "RelativeToolTip": "SchoolManagementSystem\\Controllers\\TeachersController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,11 +125,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CampusController.cs",
-              "DocumentMoniker": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\Controllers\\CampusController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Controllers\\CampusController.cs",
               "RelativeDocumentMoniker": "SchoolManagementSystem\\Controllers\\CampusController.cs",
-              "ToolTip": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\Controllers\\CampusController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Controllers\\CampusController.cs",
               "RelativeToolTip": "SchoolManagementSystem\\Controllers\\CampusController.cs",
               "ViewState": "AgIAAJMAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,11 +137,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Subject.cs",
-              "DocumentMoniker": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\Models\\Subject.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Models\\Subject.cs",
               "RelativeDocumentMoniker": "SchoolManagementSystem\\Models\\Subject.cs",
-              "ToolTip": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\Models\\Subject.cs",
               "RelativeToolTip": "SchoolManagementSystem\\Models\\Subject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

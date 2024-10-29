@@ -8600,11 +8600,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\SchoolManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\SchoolManagementSystem.csproj",
       "projectName": "SchoolManagementSystem",
-      "projectPath": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\SchoolManagementSystem.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\SchoolManagementSystem.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "F:\\Final Project\\SMS [5.0]\\SMS [4.0]\\SchoolManagementSystem\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\git\\SMS_API\\SchoolManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

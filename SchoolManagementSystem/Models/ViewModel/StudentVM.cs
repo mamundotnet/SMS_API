@@ -11,15 +11,13 @@ namespace SchoolManagementSystem.Models.ViewModel
         public string MotherName { get; set; } = default!;
         public DateOnly DateOfBirth { get; set; } = default!;
         public string? Image { get; set; }
-
         public IFormFile? ImagePath { get; set; }
-
         public string BirthCertificateNumber { get; set; } = default!;
         public string Address { get; set; } = default!;
         [ForeignKey("Gender")]
         public int GenderId { get; set; }
-
-        public virtual List<StudentGuardian> StudentGuardians { get; set; } = new List<StudentGuardian>();
-        public virtual List<StudentCampusClassSection> StudentCampusClassSection { get; set; } = new List<StudentCampusClassSection>();
+        public int CampusId { get; set; }
+        public int ClassId { get; set; }
+        public int SectionId { get; set; }
     }
 }
